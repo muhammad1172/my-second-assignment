@@ -192,6 +192,10 @@ padding: 10px 0;
   border: 2px solid lightcoral;
   border-radius: 20px;
   width: 90%;
+  color: #F948B2;
+}
+.section4-div h3:hover{
+  color: tomato;
 }
 /* footer */
 .footer-div1{
